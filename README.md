@@ -36,7 +36,7 @@ This is a 3-page dashboard built using **MySQL** for querying and **Power BI** f
 ---
 
 ## 🔗 Google Drive Access:
-[👉 Click here to view/download]([https://your-google-drive-link])
+[👉 Click here to view/download](https://drive.google.com/drive/folders/1I34o65oEZD9BVvd7FE7InLSHwloqxAxo?usp=drive_link)
 
 ---
 
